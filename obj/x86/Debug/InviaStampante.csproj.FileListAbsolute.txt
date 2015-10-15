@@ -1,0 +1,10 @@
+D:\Programmazione\00Github\PrintToPrinter\PrintToPrinter\obj\x86\Debug\InviaStampante.exe
+D:\Programmazione\00Github\PrintToPrinter\PrintToPrinter\obj\x86\Debug\InviaStampante.pdb
+D:\Programmazione\00Github\InviaStampante\obj\x86\Debug\InviaStampante.exe
+D:\Programmazione\00Github\InviaStampante\obj\x86\Debug\InviaStampante.pdb
+D:\Programmazione\00Github\InviaStampante\bin\Debug\InviaStampante.exe
+D:\Programmazione\00Github\InviaStampante\bin\Debug\InviaStampante.pdb
+D:\Programmazione\00Github\InviaStampante\obj\x86\Debug\InviaStampante.csprojResolveAssemblyReference.cache
+D:\Programmazione\00Github\InviaStampante\obj\x86\Debug\InviaStampante.frmStampa.resources
+D:\Programmazione\00Github\InviaStampante\obj\x86\Debug\InviaStampante.Properties.Resources.resources
+D:\Programmazione\00Github\InviaStampante\obj\x86\Debug\InviaStampante.csproj.GenerateResource.Cache

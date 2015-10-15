@@ -1,0 +1,29 @@
+c:\users\max methot\documents\visual studio 2010\Projects\PrintToPrinter\PrintToPrinter\bin\Debug\PrintToPrinter.exe
+c:\users\max methot\documents\visual studio 2010\Projects\PrintToPrinter\PrintToPrinter\bin\Debug\PrintToPrinter.pdb
+c:\users\max methot\documents\visual studio 2010\Projects\PrintToPrinter\PrintToPrinter\obj\x86\Debug\PrintToPrinter.Properties.Resources.resources
+c:\users\max methot\documents\visual studio 2010\Projects\PrintToPrinter\PrintToPrinter\obj\x86\Debug\PrintToPrinter.exe
+c:\users\max methot\documents\visual studio 2010\Projects\PrintToPrinter\PrintToPrinter\obj\x86\Debug\PrintToPrinter.pdb
+c:\users\max methot\documents\visual studio 2010\Projects\PrintToPrinter\PrintToPrinter\obj\x86\Debug\PrintToPrinter.FormPrint.resources
+C:\Users\Max Methot\Documents\Visual Studio 2010\Projects\PrintToPrinter\PrintToPrinter\obj\x86\Debug\PrintToPrinter.csproj.GenerateResource.Cache
+C:\Users\MaxMethot\Downloads\PrintToPrinter\obj\x86\Debug\PrintToPrinter.exe
+C:\Users\MaxMethot\Downloads\PrintToPrinter\obj\x86\Debug\PrintToPrinter.pdb
+C:\Users\MaxMethot\Downloads\PrintToPrinter\bin\Debug\PrintToPrinter.exe
+C:\Users\MaxMethot\Downloads\PrintToPrinter\bin\Debug\PrintToPrinter.pdb
+C:\Users\MaxMethot\Downloads\PrintToPrinter\obj\x86\Debug\PrintToPrinter.FormPrint.resources
+C:\Users\MaxMethot\Downloads\PrintToPrinter\obj\x86\Debug\PrintToPrinter.Properties.Resources.resources
+C:\Users\MaxMethot\Downloads\PrintToPrinter\obj\x86\Debug\PrintToPrinter.csproj.GenerateResource.Cache
+C:\Users\Max Methot\Desktop\PrintToPrinter\obj\x86\Debug\PrintToPrinter.exe
+C:\Users\Max Methot\Desktop\PrintToPrinter\obj\x86\Debug\PrintToPrinter.pdb
+C:\Users\Max Methot\Desktop\PrintToPrinter\bin\Debug\PrintToPrinter.exe
+C:\Users\Max Methot\Desktop\PrintToPrinter\bin\Debug\PrintToPrinter.pdb
+C:\Users\Max Methot\Desktop\PrintToPrinter\obj\x86\Debug\PrintToPrinter.FormPrint.resources
+C:\Users\Max Methot\Desktop\PrintToPrinter\obj\x86\Debug\PrintToPrinter.Properties.Resources.resources
+C:\Users\Max Methot\Desktop\PrintToPrinter\obj\x86\Debug\PrintToPrinter.csproj.GenerateResource.Cache
+D:\Programmazione\00Github\PrintToPrinter\PrintToPrinter\obj\x86\Debug\PrintToPrinter.csprojResolveAssemblyReference.cache
+D:\Programmazione\00Github\PrintToPrinter\PrintToPrinter\obj\x86\Debug\PrintToPrinter.csproj.GenerateResource.Cache
+D:\Programmazione\00Github\PrintToPrinter\PrintToPrinter\obj\x86\Debug\InviaStampante.frmStampa.resources
+D:\Programmazione\00Github\PrintToPrinter\PrintToPrinter\obj\x86\Debug\InviaStampante.Properties.Resources.resources
+D:\Programmazione\00Github\PrintToPrinter\PrintToPrinter\bin\Debug\InviaStampante.exe
+D:\Programmazione\00Github\PrintToPrinter\PrintToPrinter\bin\Debug\InviaStampante.pdb
+D:\Programmazione\00Github\PrintToPrinter\PrintToPrinter\obj\x86\Debug\InviaStampante.exe
+D:\Programmazione\00Github\PrintToPrinter\PrintToPrinter\obj\x86\Debug\InviaStampante.pdb
